@@ -18,7 +18,9 @@ public:
             ans.push_back(nums[dq.front()]);
 
             // check for the valid window
-            if(dq.front()<= i-k){
+            // used if here  instead of while because at max we will be popping out one value only
+            // also we could use while condition with a check that dq.size()!=0
+            while(dq.size()!=0 && dq.front()<= i-k){
                 dq.pop_front();
             }
             while(dq.size()!=0 && nums[dq.back()]<nums[i]){
