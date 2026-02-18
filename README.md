@@ -14,6 +14,7 @@ Leetcode Questions Practice
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0901-online-stock-span) |
@@ -64,15 +65,18 @@ Leetcode Questions Practice
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
