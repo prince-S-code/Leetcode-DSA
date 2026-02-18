@@ -18,11 +18,11 @@ class Solution {
     }
 public:
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        // if(subRoot==nullptr){
-        //     return true;
-        // }
-        if(root==nullptr || subRoot==nullptr){
-            return root==subRoot;
+        if(subRoot==nullptr){
+            return true;
+        }
+        if(!root){
+            return false;
         }
         if(isIdentical(root,subRoot)){
             return true;
