@@ -76,6 +76,7 @@ Leetcode Questions Practice
 | [0145-binary-tree-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Leetcode Questions Practice
 | [0145-binary-tree-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Leetcode Questions Practice
 | [0145-binary-tree-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -108,6 +111,7 @@ Leetcode Questions Practice
 | [0101-symmetric-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String Matching
 |  |
 | ------- |
@@ -125,4 +129,8 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
