@@ -6,6 +6,7 @@ Leetcode Questions Practice
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0735-asteroid-collision) |
@@ -14,6 +15,7 @@ Leetcode Questions Practice
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -28,11 +30,13 @@ Leetcode Questions Practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0901-online-stock-span](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -159,4 +163,8 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
