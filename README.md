@@ -6,6 +6,7 @@ Leetcode Questions Practice
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -171,6 +172,7 @@ Leetcode Questions Practice
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
