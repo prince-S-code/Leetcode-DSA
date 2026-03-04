@@ -10,19 +10,26 @@
  * };
  */
 class Solution {
-    int ans=INT_MAX;
-    void helper(TreeNode* root,vector<int>& ans){
-        if(root==nullptr){
+    int ans=-1;
+    void helper(TreeNode* root,int & k){
+        if(root==nullptr || ans!=-1){
             return;
         }
-        helper(root->left,ans);
-        ans.push_back(root->val);
-        helper(root->right,ans);
+        // if(ans!=-1){
+        //     return ans;
+        // }
+        helper(root->left,k);
+        k--;
+        if(k==0){
+            ans=root->val;
+        }
+        // ans.push_back(root->val);
+        helper(root->right,k);
     }
 public:
     int kthSmallest(TreeNode* root, int k) {
-        vector<int> ans;
-        helper(root,ans);
-        return ans[k-1];
+        // vector<int> ans;
+        helper(root,k);
+        return ans;
     }
 };
