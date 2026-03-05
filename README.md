@@ -204,6 +204,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,6 +217,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
@@ -229,4 +231,8 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0037-sudoku-solver) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
