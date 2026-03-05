@@ -8,6 +8,7 @@ Leetcode Questions Practice
 | ------- |
 | [0035-search-insert-position](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -217,4 +218,8 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
