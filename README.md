@@ -10,6 +10,7 @@ Leetcode Questions Practice
 | [0037-sudoku-solver](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0079-word-search) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -107,6 +108,7 @@ Leetcode Questions Practice
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0100-same-tree) |
@@ -168,6 +170,7 @@ Leetcode Questions Practice
 ## String Matching
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0079-word-search) |
 | [0572-subtree-of-another-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
 ## Hash Function
@@ -227,10 +230,12 @@ Leetcode Questions Practice
 | ------- |
 | [0037-sudoku-solver](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0079-word-search) |
 ## Recursion
 |  |
 | ------- |
