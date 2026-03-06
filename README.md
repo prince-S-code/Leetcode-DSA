@@ -6,6 +6,7 @@ Leetcode Questions Practice
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
@@ -219,6 +220,7 @@ Leetcode Questions Practice
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
