@@ -173,6 +173,7 @@ Leetcode Questions Practice
 | [0079-word-search](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0079-word-search) |
 | [0572-subtree-of-another-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Hash Function
 |  |
 | ------- |
