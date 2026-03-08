@@ -20,6 +20,7 @@ Leetcode Questions Practice
 | [0735-asteroid-collision](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1001-grid-illumination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1001-grid-illumination) |
+| [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 ## Stack
@@ -179,6 +180,7 @@ Leetcode Questions Practice
 | [0572-subtree-of-another-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 ## Hash Function
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Leetcode Questions Practice
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1001-grid-illumination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1001-grid-illumination) |
+| [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 ## Bit Manipulation
 |  |
@@ -242,6 +245,7 @@ Leetcode Questions Practice
 | [0051-n-queens](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0079-word-search) |
+| [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 ## Matrix
 |  |
 | ------- |
