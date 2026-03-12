@@ -236,6 +236,7 @@ Leetcode Questions Practice
 | ------- |
 | [0070-climbing-stairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
+| [1922-count-good-numbers](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -257,4 +258,5 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
+| [1922-count-good-numbers](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
