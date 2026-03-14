@@ -18,6 +18,7 @@ Leetcode Questions Practice
 | [0134-gas-station](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0134-gas-station) |
 | [0213-house-robber-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0503-next-greater-element-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1001-grid-illumination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1001-grid-illumination) |
@@ -32,6 +33,7 @@ Leetcode Questions Practice
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -54,6 +56,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2104-sum-of-subarray-ranges) |
