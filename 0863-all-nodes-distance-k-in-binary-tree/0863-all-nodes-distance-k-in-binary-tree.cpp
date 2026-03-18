@@ -1,47 +1,58 @@
 class Solution {
-    void node_finder(TreeNode* curr,int k,set<TreeNode*>& st,vector<int>& ans,unordered_map<TreeNode*,TreeNode*> child_parent){
-        if(k==0){
-            ans.push_back(curr->val);
-            return;
-        }
-        if(curr->left && st.count(curr->left)==0){
-            st.insert(curr->left);
-            node_finder(curr->left,k-1,st,ans,child_parent);
-        }
-        if(curr->right && st.count(curr->right)==0){
-            st.insert(curr->right);
-            node_finder(curr->right,k-1,st,ans,child_parent);
-        }
-        if(child_parent[curr] && st.count(child_parent[curr])==0){
-            st.insert(child_parent[curr]);
-            node_finder(child_parent[curr],k-1,st,ans,child_parent);
-        }
-    }
 public:
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        // do level order traversal for making the unordered_mapping of child to parent
+        // child to parent linking
+        unordered_map<TreeNode*,TreeNode*> mpp;
+        unordered_set<TreeNode*> visited;
         queue<TreeNode*> q;
-        unordered_map<TreeNode*,TreeNode*> child_parent;
         q.push(root);
         while(!q.empty()){
             int size=q.size();
             for(int i=0;i<size;i++){
                 TreeNode* curr=q.front();
-                q.pop();
                 if(curr->left){
+                    mpp[curr->left]=curr;
                     q.push(curr->left);
-                    child_parent[curr->left]=curr;
                 }
                 if(curr->right){
+                    mpp[curr->right]=curr;
                     q.push(curr->right);
-                    child_parent[curr->right]=curr;
+                }
+                q.pop();
+            }
+        }
+        vector<int> ans;
+        queue<TreeNode*> que;
+        int dis=0;
+        que.push(target);
+        visited.insert(target);
+        while(!que.empty()){
+            if(dis==k){
+                break;
+            }
+            dis++;
+            int size=que.size();
+            for(int i=0;i<size;i++){
+                TreeNode* curr=que.front();
+                que.pop();
+                if(curr->left && visited.count(curr->left)==0){
+                    que.push(curr->left);
+                    visited.insert(curr->left);
+                }
+                if(curr->right && visited.count(curr->right)==0){
+                    que.push(curr->right);
+                    visited.insert(curr->right);
+                }
+                if(mpp.find(curr)!=mpp.end() && visited.count(mpp[curr])==0){
+                    que.push(mpp[curr]);
+                    visited.insert(mpp[curr]);
                 }
             }
         }
-        set<TreeNode*> visited;
-        visited.insert(target);
-        vector<int> ans;
-        node_finder(target,k,visited,ans,child_parent);
+        while(!que.empty()){
+            ans.push_back(que.front()->val);
+            que.pop();
+        }
         return ans;
     }
 };
