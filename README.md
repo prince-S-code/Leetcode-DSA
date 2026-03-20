@@ -20,6 +20,7 @@ Leetcode Questions Practice
 | [0213-house-robber-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0503-next-greater-element-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
@@ -56,6 +57,7 @@ Leetcode Questions Practice
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
