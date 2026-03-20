@@ -19,6 +19,7 @@ Leetcode Questions Practice
 | [0134-gas-station](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0134-gas-station) |
 | [0213-house-robber-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0503-next-greater-element-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -196,6 +197,7 @@ Leetcode Questions Practice
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
 ## Sorting
 |  |
@@ -212,6 +214,7 @@ Leetcode Questions Practice
 | [0222-count-complete-tree-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Hash Table
 |  |
@@ -260,6 +263,7 @@ Leetcode Questions Practice
 | [0037-sudoku-solver](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Recursion
 |  |
 | ------- |
