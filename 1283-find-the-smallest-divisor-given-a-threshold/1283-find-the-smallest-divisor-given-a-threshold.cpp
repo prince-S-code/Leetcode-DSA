@@ -15,7 +15,7 @@ class Solution {
 public:
     int smallestDivisor(vector<int>& nums, int threshold) {
         int low=1;
-        int high=1e7;
+        int high=1e6;
         while(low<=high){
             int mid=low+(high-low)/2;
             if(is_possible(nums,mid,threshold)){
