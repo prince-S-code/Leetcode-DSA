@@ -11,6 +11,7 @@ Leetcode Questions Practice
 | [0037-sudoku-solver](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0079-word-search) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -205,6 +206,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -256,6 +258,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0079-word-search) |
 ## Recursion
 |  |
