@@ -26,6 +26,7 @@ Leetcode Questions Practice
 | [0875-koko-eating-bananas](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1001-grid-illumination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1001-grid-illumination) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
@@ -222,6 +223,7 @@ Leetcode Questions Practice
 | [0240-search-a-2d-matrix-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0875-koko-eating-bananas](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
