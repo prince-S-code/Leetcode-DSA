@@ -3,14 +3,13 @@ class Solution {
         int days_req=0;
         int curr_sum=0;
         for(int i=0;i<weights.size();i++){
-            if(curr_sum+weights[i] <= guess){
                 curr_sum+=weights[i];
-            }else{
+            if(curr_sum>guess){
                 curr_sum=weights[i];
                 days_req++;
             }
         }
-        if(curr_sum) days_req++;
+        days_req++;
         if(days_req <=days){
             return true;
         }
