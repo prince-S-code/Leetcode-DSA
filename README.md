@@ -144,6 +144,7 @@ Leetcode Questions Practice
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -184,6 +185,7 @@ Leetcode Questions Practice
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -282,4 +284,12 @@ Leetcode Questions Practice
 | ------- |
 | [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1922-count-good-numbers) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
