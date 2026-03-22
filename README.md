@@ -6,6 +6,7 @@ Leetcode Questions Practice
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0037-sudoku-solver) |
@@ -222,6 +223,7 @@ Leetcode Questions Practice
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -234,6 +236,7 @@ Leetcode Questions Practice
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0098-validate-binary-search-tree) |
