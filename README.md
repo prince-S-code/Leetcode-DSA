@@ -34,6 +34,7 @@ Leetcode Questions Practice
 | [1020-number-of-enclaves](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
@@ -300,6 +301,7 @@ Leetcode Questions Practice
 | [0733-flood-fill](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
 |  |
