@@ -30,6 +30,7 @@ Leetcode Questions Practice
 | [0994-rotting-oranges](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1001-grid-illumination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1001-grid-illumination) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
@@ -154,6 +155,7 @@ Leetcode Questions Practice
 | [0733-flood-fill](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -197,6 +199,7 @@ Leetcode Questions Practice
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 ## String Matching
 |  |
 | ------- |
@@ -289,6 +292,7 @@ Leetcode Questions Practice
 | [0542-01-matrix](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
 |  |
@@ -299,6 +303,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
