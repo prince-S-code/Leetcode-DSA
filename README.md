@@ -208,6 +208,7 @@ Leetcode Questions Practice
 ## String Matching
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0006-zigzag-conversion) |
 | [0079-word-search](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0572-subtree-of-another-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
