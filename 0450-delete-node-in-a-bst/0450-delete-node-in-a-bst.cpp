@@ -16,6 +16,12 @@ class Solution {
         }
         return root;
     }
+    TreeNode* inorder_predecessor(TreeNode* root){
+        while(root->right){
+            root=root->right;
+        }
+        return root;
+    }
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(!root){
@@ -42,9 +48,9 @@ public:
             }
 
             // both the child present
-            TreeNode* successor=inorder_successor(root->right);
-            root->val=successor->val;
-            root->right=deleteNode(root->right,successor->val);
+            TreeNode* predecessor=inorder_predecessor(root->left);
+            root->val=predecessor->val;
+            root->left=deleteNode(root->left,predecessor->val);
         }
         return root;
     }
