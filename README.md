@@ -235,11 +235,13 @@ Leetcode Questions Practice
 | [0004-median-of-two-sorted-arrays](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 ## Binary Search Tree
@@ -281,11 +283,13 @@ Leetcode Questions Practice
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0148-sort-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0148-sort-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Linked List
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0148-sort-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
@@ -337,4 +341,8 @@ Leetcode Questions Practice
 | ------- |
 | [0547-number-of-provinces](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
