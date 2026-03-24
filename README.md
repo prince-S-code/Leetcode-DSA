@@ -286,6 +286,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -321,6 +322,7 @@ Leetcode Questions Practice
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1922-count-good-numbers) |
 ## Union-Find
