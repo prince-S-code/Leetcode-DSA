@@ -40,6 +40,7 @@ Leetcode Questions Practice
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Stack
 |  |
@@ -273,6 +274,7 @@ Leetcode Questions Practice
 | [1001-grid-illumination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1001-grid-illumination) |
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -322,6 +324,7 @@ Leetcode Questions Practice
 | [0994-rotting-oranges](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
 |  |
@@ -345,4 +348,12 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [3548-equal-sum-grid-partition-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3548-equal-sum-grid-partition-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 <!---LeetCode Topics End-->
