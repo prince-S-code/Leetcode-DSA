@@ -40,6 +40,7 @@ Leetcode Questions Practice
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
+| [2573-find-the-string-with-lcp](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Stack
@@ -72,6 +73,7 @@ Leetcode Questions Practice
 | [0416-partition-equal-subset-sum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [2573-find-the-string-with-lcp](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2573-find-the-string-with-lcp) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0134-gas-station) |
+| [2573-find-the-string-with-lcp](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2573-find-the-string-with-lcp) |
 ## Tree
 |  |
 | ------- |
@@ -226,6 +229,7 @@ Leetcode Questions Practice
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
+| [2573-find-the-string-with-lcp](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2573-find-the-string-with-lcp) |
 ## Hash Function
 |  |
 | ------- |
@@ -324,6 +328,7 @@ Leetcode Questions Practice
 | [0994-rotting-oranges](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
@@ -339,6 +344,7 @@ Leetcode Questions Practice
 | [0547-number-of-provinces](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
+| [2573-find-the-string-with-lcp](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2573-find-the-string-with-lcp) |
 ## Graph Theory
 |  |
 | ------- |
