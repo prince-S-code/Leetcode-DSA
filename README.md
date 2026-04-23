@@ -257,6 +257,7 @@ Leetcode Questions Practice
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -306,6 +307,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1922-count-good-numbers) |
