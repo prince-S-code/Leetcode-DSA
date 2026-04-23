@@ -7,10 +7,12 @@ public:
             x = 1 / x;
             exp = -exp;
         }
-        if (exp % 2 == 0) {
-            return myPow(x * x, exp / 2);
-        } else {
-            return x * myPow(x * x, exp / 2);
+        double result=1;
+        while(exp){
+            if(exp&1) result=x*result;
+            x=x*x;
+            exp>>=1;
         }
+        return result;
     }
 };
