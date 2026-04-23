@@ -305,6 +305,7 @@ Leetcode Questions Practice
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1922-count-good-numbers) |
@@ -339,6 +340,7 @@ Leetcode Questions Practice
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1922-count-good-numbers) |
