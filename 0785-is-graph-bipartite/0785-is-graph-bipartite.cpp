@@ -10,7 +10,7 @@ public:
             if(color[i]==-1){ // that is the node is uncolored and unvisited
                 queue<int> q;
                 q.push(i); 
-                color[i]=1;//initialising it with any random color, 0 would have also worked
+                color[i]=0;//initialising it with any random color, 0 would have also worked
                 while(!q.empty()){
                     int size=q.size();// to know how many nodes to process in the single cycle
                     for(int i=0;i<size;i++){
