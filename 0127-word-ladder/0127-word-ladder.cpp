@@ -4,8 +4,10 @@ public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
         unordered_set<string> st(wordList.begin(),wordList.end());
         queue<pair<string,int>> q;//the word and the no of steps to reach that word
+        if(st.find(endWord)==st.end()) return 0;
         int n=beginWord.size();
         q.push({beginWord,1});
+        st.erase(beginWord);
         while(!q.empty()){
             auto current=q.front();
             q.pop();
