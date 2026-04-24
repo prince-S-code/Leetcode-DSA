@@ -1,36 +1,31 @@
 class Solution {
+    // dfs algorithm for cycle detection
+    // return true if cycle found else return false;
+    bool dfs(int node,vector<vector<int>>& graph,vector<int>& visited){
+        if(visited[node]==1) return true;
+        if(visited[node]==2) return false;
+        visited[node]=1;// currently in recursion stack
+        for(auto nbr:graph[node]){
+                if(dfs(nbr,graph,visited)){
+                    return true;
+                }
+        }
+        visited[node]=2; // 2 is marked for the safe state
+        return false;
+    }
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        // using dfs
         int n=graph.size();
+        vector<int> visited(n,0);
         vector<int> safe;
-        vector<int> outdegree(n,0);
-        vector<vector<int>> revgraph(n);
-        // building reverse graph and outdegree
         for(int i=0;i<n;i++){
-            outdegree[i]=graph[i].size();
-            for(int neighbour:graph[i]){
-                revgraph[neighbour].push_back(i);
-            }
-        }
-        queue<int> q;
-        for(int i=0;i<n;i++){
-            if(outdegree[i]==0){
-                q.push(i);
-            }
-        }
-        while(!q.empty()){
-            int current=q.front();
-            safe.push_back(current);
-            q.pop();
-            for(auto nbr:revgraph[current]){
-                outdegree[nbr]--;
-                // safe.push_back(currrent);
-                if(outdegree[nbr]==0){
-                    q.push(nbr);
+            // if(!visited[i]){
+                if(!dfs(i,graph,visited)){
+                    safe.push_back(i);
                 }
-            }
+            // }
         }
-        sort(safe.begin(),safe.end());
         return safe;
     }
 };
