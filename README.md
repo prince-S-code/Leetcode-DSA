@@ -321,12 +321,14 @@ Leetcode Questions Practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0148-sort-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
