@@ -1,33 +1,23 @@
 class Solution {
 public:
-    vector<vector<char>> rotateTheBox(vector<vector<char>>& boxGrid) {
-        int m = boxGrid.size();
-        int n = boxGrid[0].size();
-
-        // Step 1: Apply gravity (right side)
-        for (int i = 0; i < m; i++) {
-            int empty = n - 1; // position where stone can fall
-            
-            for (int j = n - 1; j >= 0; j--) {
-                if (boxGrid[i][j] == '*') {
-                    empty = j - 1; // reset after obstacle
-                } 
-                else if (boxGrid[i][j] == '#') {
-                    swap(boxGrid[i][j], boxGrid[i][empty]);
-                    empty--;
-                }
+    vector<vector<char>> rotateTheBox(vector<vector<char>>& grid) {
+        int rows = grid.size(), cols = grid[0].size();
+        for (int r = 0; r < rows; r++) {
+            int p = 0;
+            for (int c = 0; c < cols; c++) {
+                if (grid[r][c] == '.') {
+                    swap(grid[r][c], grid[r][p]);
+                    p++;
+                } else if (grid[r][c] == '*')
+                    p = c + 1;
             }
         }
-
-        // Rotate 90° clockwise
-        vector<vector<char>> res(n, vector<char>(m));
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                res[j][m - 1 - i] = boxGrid[i][j];
-            }
-        }
-
+        
+        vector<vector<char>> res(cols, vector<char>(rows));
+        for (int r = 0; r < rows; r++)
+            for (int c = 0; c < cols; c++)
+                res[c][rows - 1 - r] = grid[r][c];
+                
         return res;
     }
 };
