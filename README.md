@@ -115,6 +115,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -263,6 +264,7 @@ Leetcode Questions Practice
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2573-find-the-string-with-lcp) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Function
 |  |
 | ------- |
@@ -316,6 +318,7 @@ Leetcode Questions Practice
 | [1001-grid-illumination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1001-grid-illumination) |
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bit Manipulation
