@@ -81,6 +81,7 @@ Leetcode Questions Practice
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0213-house-robber-ii) |
@@ -260,6 +261,7 @@ Leetcode Questions Practice
 | ------- |
 | [0006-zigzag-conversion](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0006-zigzag-conversion) |
 | [0079-word-search](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0572-subtree-of-another-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
