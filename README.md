@@ -40,6 +40,7 @@ Leetcode Questions Practice
 | [1020-number-of-enclaves](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1386-cinema-seat-allocation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -131,6 +132,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0134-gas-station) |
+| [1386-cinema-seat-allocation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2573-find-the-string-with-lcp](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2573-find-the-string-with-lcp) |
 ## Tree
@@ -316,6 +318,7 @@ Leetcode Questions Practice
 | [0127-word-ladder](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1001-grid-illumination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1001-grid-illumination) |
+| [1386-cinema-seat-allocation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -326,6 +329,7 @@ Leetcode Questions Practice
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
+| [1386-cinema-seat-allocation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 ## Two Pointers
 |  |
 | ------- |
