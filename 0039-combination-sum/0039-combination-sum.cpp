@@ -1,22 +1,26 @@
 class Solution {
-    void solve(vector<int>& candidates, int ind,int target,vector<int>& temp,vector<vector<int>>&ans){
-        if(ind == candidates.size() || target<0){
-            return;
-        }
+    void solve(int ind,int target,vector<int>& candidates,vector<int>& curr,vector<vector<int>>& ans){
+        int n=candidates.size();
         if(target==0){
-            ans.push_back(temp);
+            ans.push_back(curr);
             return;
         }
-        temp.push_back(candidates[ind]);
-        solve(candidates,ind,target-candidates[ind],temp,ans);
-        temp.pop_back();
-        solve(candidates,ind+1,target,temp,ans);
+        if(ind==n){
+            return;
+        }
+        solve(ind+1,target,candidates,curr,ans);
+        if(target >= candidates[ind]){
+            curr.push_back(candidates[ind]);
+            solve(ind,target-candidates[ind],candidates,curr,ans);
+            curr.pop_back();
+        }
     }
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
-        vector<int> temp;
-        solve(candidates,0,target,temp,ans);
+        vector<int> curr;
+        // vector<vector<int>> dp(n);
+        solve(0,target,candidates,curr,ans);
         return ans;
     }
 };
