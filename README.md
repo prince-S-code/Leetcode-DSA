@@ -293,6 +293,7 @@ Leetcode Questions Practice
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
@@ -346,6 +347,7 @@ Leetcode Questions Practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0338-counting-bits) |
