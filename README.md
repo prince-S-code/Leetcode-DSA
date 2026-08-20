@@ -90,6 +90,7 @@ Leetcode Questions Practice
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -347,6 +348,7 @@ Leetcode Questions Practice
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 ## Two Pointers
 |  |
