@@ -80,6 +80,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0735-asteroid-collision) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -284,6 +285,7 @@ Leetcode Questions Practice
 | [1143-longest-common-subsequence](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
