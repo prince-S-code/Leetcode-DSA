@@ -384,6 +384,7 @@ Leetcode Questions Practice
 | [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1922-count-good-numbers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
