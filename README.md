@@ -83,6 +83,7 @@ Leetcode Questions Practice
 | [0657-robot-return-to-origin](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -119,6 +120,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0901-online-stock-span) |
+| [2069-walking-robot-simulation-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2069-walking-robot-simulation-ii) |
 ## Data Stream
 |  |
 | ------- |
