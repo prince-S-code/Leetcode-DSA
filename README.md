@@ -34,6 +34,7 @@ Leetcode Questions Practice
 | [0542-01-matrix](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0994-rotting-oranges) |
@@ -81,6 +82,7 @@ Leetcode Questions Practice
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -350,6 +352,7 @@ Leetcode Questions Practice
 | [0127-word-ladder](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0874-walking-robot-simulation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0874-walking-robot-simulation) |
 | [1001-grid-illumination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1001-grid-illumination) |
 | [1386-cinema-seat-allocation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
