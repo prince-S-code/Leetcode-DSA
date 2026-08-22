@@ -57,6 +57,7 @@ Leetcode Questions Practice
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3225-maximum-score-from-grid-operations](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3225-maximum-score-from-grid-operations) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -100,6 +101,7 @@ Leetcode Questions Practice
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2573-find-the-string-with-lcp](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3225-maximum-score-from-grid-operations](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3225-maximum-score-from-grid-operations) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -427,6 +429,7 @@ Leetcode Questions Practice
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3225-maximum-score-from-grid-operations](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3225-maximum-score-from-grid-operations) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
