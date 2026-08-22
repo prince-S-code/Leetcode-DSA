@@ -79,6 +79,7 @@ Leetcode Questions Practice
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
@@ -281,6 +282,7 @@ Leetcode Questions Practice
 | [0091-decode-ways](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0572-subtree-of-another-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
+| [0657-robot-return-to-origin](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0657-robot-return-to-origin) |
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [1143-longest-common-subsequence](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
