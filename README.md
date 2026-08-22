@@ -62,6 +62,7 @@ Leetcode Questions Practice
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -156,6 +157,7 @@ Leetcode Questions Practice
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Tree
 |  |
 | ------- |
@@ -323,6 +325,7 @@ Leetcode Questions Practice
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search Tree
 |  |
@@ -348,6 +351,7 @@ Leetcode Questions Practice
 | [1631-path-with-minimum-effort](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -385,6 +389,7 @@ Leetcode Questions Practice
 | [0148-sort-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0148-sort-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1861-rotating-the-box) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
