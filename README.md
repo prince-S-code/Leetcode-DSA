@@ -283,6 +283,7 @@ Leetcode Questions Practice
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Function
 |  |
@@ -306,6 +307,7 @@ Leetcode Questions Practice
 | [0347-top-k-frequent-elements](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search Tree
 |  |
@@ -344,6 +346,7 @@ Leetcode Questions Practice
 | [1386-cinema-seat-allocation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
