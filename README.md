@@ -153,6 +153,7 @@ Leetcode Questions Practice
 | ------- |
 | [0134-gas-station](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0134-gas-station) |
 | [1386-cinema-seat-allocation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2573-find-the-string-with-lcp) |
@@ -294,6 +295,7 @@ Leetcode Questions Practice
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [1143-longest-common-subsequence](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1927-sum-game](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2573-find-the-string-with-lcp) |
@@ -408,6 +410,7 @@ Leetcode Questions Practice
 | [0070-climbing-stairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -527,4 +530,8 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
