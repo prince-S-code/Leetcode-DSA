@@ -306,6 +306,7 @@ Leetcode Questions Practice
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Hash Function
 |  |
 | ------- |
@@ -397,6 +398,7 @@ Leetcode Questions Practice
 | [1861-rotating-the-box](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1861-rotating-the-box) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
@@ -491,6 +493,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
