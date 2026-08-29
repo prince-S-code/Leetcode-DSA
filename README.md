@@ -386,6 +386,7 @@ Leetcode Questions Practice
 | [0222-count-complete-tree-nodes](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Two Pointers
@@ -417,6 +418,7 @@ Leetcode Questions Practice
 | [0069-sqrtx](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 | [1922-count-good-numbers](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
