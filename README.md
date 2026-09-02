@@ -68,6 +68,7 @@ Leetcode Questions Practice
 | [3643-flip-square-submatrix-vertically](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -429,6 +430,7 @@ Leetcode Questions Practice
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Memoization
 |  |
 | ------- |
