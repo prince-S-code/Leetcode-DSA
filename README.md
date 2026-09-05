@@ -37,6 +37,7 @@ Leetcode Questions Practice
 | [0874-walking-robot-simulation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0973-k-closest-points-to-origin](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1001-grid-illumination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1001-grid-illumination) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -148,6 +149,7 @@ Leetcode Questions Practice
 | [0239-sliding-window-maximum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 ## Monotonic Queue
@@ -327,12 +329,14 @@ Leetcode Questions Practice
 | [0240-search-a-2d-matrix-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
+| [0973-k-closest-points-to-origin](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
+| [0973-k-closest-points-to-origin](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -425,6 +429,7 @@ Leetcode Questions Practice
 | [0070-climbing-stairs](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
+| [0973-k-closest-points-to-origin](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1922-count-good-numbers](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -547,6 +552,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Combinatorics
 |  |
 | ------- |
@@ -555,4 +561,12 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1927-sum-game) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
