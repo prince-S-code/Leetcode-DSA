@@ -110,6 +110,7 @@ Leetcode Questions Practice
 | [0542-01-matrix](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2573-find-the-string-with-lcp](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2573-find-the-string-with-lcp) |
@@ -302,6 +303,7 @@ Leetcode Questions Practice
 | [0572-subtree-of-another-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0657-robot-return-to-origin](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0657-robot-return-to-origin) |
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
+| [0940-distinct-subsequences-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1927-sum-game](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1927-sum-game) |
