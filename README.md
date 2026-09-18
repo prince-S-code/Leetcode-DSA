@@ -167,6 +167,7 @@ Leetcode Questions Practice
 | ------- |
 | [0134-gas-station](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0134-gas-station) |
 | [1386-cinema-seat-allocation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -311,6 +312,7 @@ Leetcode Questions Practice
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [0940-distinct-subsequences-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1927-sum-game](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
@@ -346,6 +348,7 @@ Leetcode Questions Practice
 | [0347-top-k-frequent-elements](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [0973-k-closest-points-to-origin](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -391,6 +394,7 @@ Leetcode Questions Practice
 | [1001-grid-illumination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1001-grid-illumination) |
 | [1386-cinema-seat-allocation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
