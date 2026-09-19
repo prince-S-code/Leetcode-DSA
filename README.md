@@ -447,6 +447,7 @@ Leetcode Questions Practice
 | [0231-power-of-two](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1922-count-good-numbers](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -585,6 +586,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## K-D Tree
 |  |
 | ------- |
