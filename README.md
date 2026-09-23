@@ -49,6 +49,7 @@ Leetcode Questions Practice
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -148,6 +149,7 @@ Leetcode Questions Practice
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
@@ -380,6 +382,7 @@ Leetcode Questions Practice
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -397,6 +400,7 @@ Leetcode Questions Practice
 | [1386-cinema-seat-allocation](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1980-find-unique-binary-string](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -538,6 +542,7 @@ Leetcode Questions Practice
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3225-maximum-score-from-grid-operations](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3904-smallest-stable-index-ii) |
