@@ -61,6 +61,7 @@ Leetcode Questions Practice
 | [2573-find-the-string-with-lcp](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3225-maximum-score-from-grid-operations](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
